@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="141629" started-at="2020-06-03T09:47:47Z" finished-at="2020-06-03T09:50:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="141629" started-at="2020-06-03T09:47:47Z" finished-at="2020-06-03T09:50:08Z">
+      <class name="TestScriptVTigerPOM.CreateProductTest">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:TestScriptVTigerPOM.CreateProductTest@29774679]" name="configBC" is-config="true" duration-ms="7921" started-at="2020-06-03T04:47:47Z" finished-at="2020-06-03T04:47:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:TestScriptVTigerPOM.CreateProductTest@29774679]" name="configBM" is-config="true" duration-ms="6231" started-at="2020-06-03T04:47:56Z" finished-at="2020-06-03T04:48:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createProductTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScriptVTigerPOM.CreateProductTest@29774679]" name="createProductTest" duration-ms="31350" started-at="2020-06-03T04:48:02Z" data-provider="giveData" finished-at="2020-06-03T04:48:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Monitor]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AltvetPet Inc.]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hardware]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Pramod]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProductTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:TestScriptVTigerPOM.CreateProductTest@29774679]" name="configAM" is-config="true" duration-ms="3434" started-at="2020-06-03T04:48:34Z" finished-at="2020-06-03T04:48:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:TestScriptVTigerPOM.CreateProductTest@29774679]" name="configBM" is-config="true" duration-ms="6977" started-at="2020-06-03T04:48:37Z" finished-at="2020-06-03T04:48:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createProductTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScriptVTigerPOM.CreateProductTest@29774679]" name="createProductTest" duration-ms="32564" started-at="2020-06-03T04:48:44Z" data-provider="giveData" finished-at="2020-06-03T04:49:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Keyboard]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LexPon Inc.]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Software]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Aravind]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProductTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:TestScriptVTigerPOM.CreateProductTest@29774679]" name="configAM" is-config="true" duration-ms="4433" started-at="2020-06-03T04:49:17Z" finished-at="2020-06-03T04:49:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:TestScriptVTigerPOM.CreateProductTest@29774679]" name="configBM" is-config="true" duration-ms="8388" started-at="2020-06-03T04:49:22Z" finished-at="2020-06-03T04:49:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createProductTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScriptVTigerPOM.CreateProductTest@29774679]" name="createProductTest" duration-ms="32269" started-at="2020-06-03T04:49:30Z" data-provider="giveData" finished-at="2020-06-03T04:50:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mouse]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MetBeat Corp]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CRM Applications]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Manjula]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProductTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:TestScriptVTigerPOM.CreateProductTest@29774679]" name="configAM" is-config="true" duration-ms="4182" started-at="2020-06-03T04:50:03Z" finished-at="2020-06-03T04:50:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:TestScriptVTigerPOM.CreateProductTest@29774679]" name="configAC" is-config="true" duration-ms="1091" started-at="2020-06-03T04:50:07Z" finished-at="2020-06-03T04:50:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- TestScriptVTigerPOM.CreateProductTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
